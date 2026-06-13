@@ -75,10 +75,13 @@ currently  : Building projects with React, TypeScript & AI tools
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🥊 Iron Fist AI Game](https://github.com/zeeshan2007/iron-fist-challenge-Ai-Game-) | Fighting tournament UI with live match visuals & bracket flow | HTML, CSS, JS |
-| [🐍 Snake Game with AI](https://github.com/zeeshan2007/Snake-game-made-with-ai) | Classic snake game enhanced with AI | TypeScript |
-| [🕵️ Detective Game](https://github.com/zeeshan2007/Detective-Game) | Interactive mystery game | TypeScript |
-| [💪 fit.connect](https://github.com/zeeshan2007/fit.connect) | Fitness connection app | TypeScript |
+| [🌐 Portfolio](https://zeefolder.netlify.app/) | My personal portfolio — design, projects & contact | HTML, CSS, JS |
+| [🌦️ Aura Weather App](https://aura-weather-zeta.vercel.app/) | Live weather app with glassmorphism UI | JS, WeatherAPI |
+| [📚 Study Corner](https://study-cornor.netlify.app/) | Study time tracking app to boost productivity | HTML, CSS, JS |
+| [🐍 Snake AI Game](https://snake-ai-game.netlify.app/) | Classic snake game enhanced with AI | TypeScript |
+| [🕵️ Detective Game](https://unclosed-file.netlify.app/) | Interactive mystery detective game | TypeScript |
+
+> 🚀 More projects on the way...
 
 ---
 
