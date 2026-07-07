@@ -61,14 +61,34 @@ currently  : Building data analysis projects & a scraping-based data tool
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zeeshan2007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=zeeshan2007&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zeeshan2007&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/github-contribution-grid-snake.svg" />
 
 </div>
 
