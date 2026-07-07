@@ -74,21 +74,21 @@ currently  : Building data analysis projects & a scraping-based data tool
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zeeshan2007&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=zeeshan2007&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
