@@ -78,7 +78,7 @@ currently  : Building data analysis projects & a scraping-based data tool
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zeeshan2007&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=zeeshan2007&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
