@@ -1,217 +1,390 @@
-<!-- ================= HERO ================= -->
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Zeeshan Shaukat" src="light.svg">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=220&section=header&text=Zeeshan%20Shaukat&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Building+AI+Solutions;Turning+Data+Into+Intelligence"/>
 
 <br>
 
-<div align="center">
-
-# Hi, I'm Zeeshan Shaukat 👋
-
-### Aspiring Machine Learning Engineer
-
-Building intelligent Machine Learning solutions with Python, Data Science, and AI.
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zeeshanshaukat.netlify.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeeshan-shaukat/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zeeshan2007)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshanshaukat2007@gmail.com)
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm a passionate Machine Learning enthusiast from Pakistan who enjoys building AI-powered applications and solving real-world problems using data.
-
-Currently focused on:
-
-- 🤖 Machine Learning
-- 📊 Data Analysis
-- 🐍 Python
-- 🧠 Scikit-Learn
-- 📈 Model Deployment
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=sklearn"/>
-
-</p>
-
-### Libraries
-
-<p>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/>
-
-</p>
-
-### Visualization
-
-<p>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=zeeshan2007&hide_border=true&border_radius=15&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=777777&sideLabels=555555"/>
+<img src="https://github.com/zeeshan2007.png" width="180" style="border-radius:50%;"/>
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=000000&text_color=444444&icon_color=000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=444444"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/snake-light.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/snake-light.svg">
-</picture>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zeeshan2007&style=for-the-badge&color=000000" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| ⚽ **[FIFA Player Market Value Predictor](https://github.com/zeeshan2007/Fifa-2026-Player-Market-Value-Predictor)** | Predicts football players' market value using Machine Learning regression models. | Python • Pandas • NumPy • Scikit-Learn |
-| 📉 **[Customer Churn Prediction](https://github.com/zeeshan2007/Customer-Churn-Prediction)** | Predicts whether a customer is likely to churn using classification algorithms. | Python • Logistic Regression • Scikit-Learn |
-| ❤️ **Heart Disease Prediction** | Predicts the likelihood of heart disease based on patient medical data. | Python • Machine Learning |
-| 🎬 **Netflix Data Analysis** | Exploratory Data Analysis on the Netflix dataset with meaningful business insights. | Pandas • Matplotlib |
-| 🌦️ **Aura Weather** | A modern weather web application with a clean responsive interface. | HTML • CSS • JavaScript |
-| 🐍 **Python Mini Projects** | Collection of beginner-to-intermediate Python projects for practice. | Python |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|:------:|
-| 🐍 Master Python | ✅ |
-| 📊 Master Data Analysis | ✅ |
-| 🤖 Build 15+ Machine Learning Projects | 🔄 |
-| 🧠 Learn Deep Learning | 🔄 |
-| 👁️ Learn Computer Vision | ⏳ |
-| 💬 Learn NLP & LLMs | ⏳ |
-| 🌐 Deploy AI Applications | 🔄 |
-| 💼 Become an ML Engineer | 🎯 |
-
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"Machine Learning is not about replacing human intelligence — it's about amplifying it."**
-
-</div>
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://zeeshanshaukat.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/zeeshan2007">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Zeeshan Shaukat
+role: Aspiring Machine Learning Engineer
+education: Computer Science Student
+
+focus:
+  - Machine Learning
+  - Data Science
+  - Artificial Intelligence
+  - Predictive Modeling
+
+currently_learning:
+  - Advanced Machine Learning
+  - Deep Learning
+  - Model Deployment
+
+goal:
+  Build intelligent systems that solve real-world problems using data.
+
+## 🧠 Technical Skills
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
+
+<br>
+
+`Regression` • `Classification` • `Feature Engineering`  
+`Model Optimization` • `Predictive Analytics`
+
+</td>
+
+
+<td width="50%" align="center">
+
+### 📊 Data Science
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+
+<br>
+
+`Data Cleaning` • `EDA`  
+`Statistical Analysis` • `Visualization`
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+
+<br>
+
+`Python` • `SQL` • `Problem Solving`
+
+</td>
+
+
+<td width="50%" align="center">
+
+### 🛠 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<br>
+
+`Git` • `GitHub` • `VS Code`  
+`Figma` • `Design Systems`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+
+## ⚙️ Machine Learning Workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Collection-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Training-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deployment-000000?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 Currently Exploring
+
+```python
+class Zeeshan:
+
+    def __init__(self):
+        self.role = "Aspiring ML Engineer"
+        self.learning = [
+            "Advanced Machine Learning",
+            "Deep Learning",
+            "MLOps",
+            "AI Applications"
+        ]
+
+    def future_goal(self):
+        return "Build intelligent AI systems"
+        
+
+me = Zeeshan()
+print(me.future_goal())
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan2007&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000" />
+
+</div>
+
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📊 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan2007&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=AI%20%26%20Machine%20Learning%20Projects&fontSize=45&fontColor=000000&color=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">⚽ FIFA 2026 Player Market Value Predictor</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/>
+
+<br><br>
+
+Predicting football player market values using real-world performance statistics.
+
+<br><br>
+
+<b>Tech Stack:</b>
+
+Python • Pandas • NumPy • Scikit-Learn • Random Forest
+
+<br><br>
+
+<a href="https://github.com/zeeshan2007/Fifa-2026-Player-Market-Value-Predictor">
+
+<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">📉 Customer Churn Prediction</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Classification-000000?style=for-the-badge"/>
+
+<br><br>
+
+Predicting customer retention using machine learning classification models.
+
+<br><br>
+
+<b>Tech Stack:</b>
+
+Python • Pandas • Scikit-Learn • Data Visualization
+
+<br><br>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td width="50%">
+
+<h3 align="center">🎬 Netflix Data Analysis</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge"/>
+
+<br><br>
+
+Exploring Netflix content trends through data cleaning and visualization.
+
+<br><br>
+
+<b>Tech Stack:</b>
+
+Python • Pandas • Matplotlib • EDA
+
+<br><br>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+</td>
+
+
+
+<td width="50%">
+
+<h3 align="center">🌤 Aura Weather</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Web%20Application-000000?style=for-the-badge"/>
+
+<br><br>
+
+A modern weather application with clean UI and real-time information.
+
+<br><br>
+
+<b>Tech Stack:</b>
+
+HTML • CSS • JavaScript • API
+
+<br><br>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/zeeshan2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/zeeshan-shaukat/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:zeeshanshaukat2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://zeeshanshaukat.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
----
+
+<br>
+
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💬 Let's collaborate on AI, Data Science & Machine Learning projects.
 
-*"Building intelligent solutions with Machine Learning, one project at a time."*
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=zeeshan2007&label=Profile%20Views&color=000000&style=flat"/>
 
 </div>
+
+
+---
+
+
+## 🧩 My Development Philosophy
+
+<div align="center">
