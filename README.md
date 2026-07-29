@@ -1,21 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Zeeshan+%F0%9F%91%8B;Aspiring+Machine+Learning+Engineer;Building+AI+Solutions+with+Data" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Zeeshan+%F0%9F%91%8B;Aspiring+Machine+Learning+Engineer;Building+AI+Models+with+Data" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zeeshanshaukat.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://zeeshanshaukat.netlify.app/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeeshan_Shaukat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-shaukat-6ab842297/)
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan2007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeeshan2007)
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeeshan2007&color=58a6ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=zeeshan2007&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 ```yaml
 name       : Zeeshan Shaukat
@@ -23,39 +22,110 @@ location   : Rawalpindi, Pakistan
 education  : BS Data Science — NUML University (3rd Semester)
 role       : Aspiring Machine Learning Engineer
 focus      : Machine Learning, Data Science & Artificial Intelligence
-
-currently:
-  - Building Machine Learning Projects
-  - Learning Deep Learning
-  - Exploring Model Deployment
-
-goal:
-  Build intelligent systems that solve real-world problems using data.
-
+tools      : Python, SQL, Pandas, NumPy, Scikit-Learn
+currently  : Building predictive models and real-world ML projects
 ```
 
-## 📈 GitHub Stats
+---
+
+### 🤖 Machine Learning & Data Science Toolkit
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+
+**Machine Learning Skills**
+
+- Regression
+- Classification
+- Feature Engineering
+- Data Cleaning
+- Exploratory Data Analysis
+- Model Evaluation
+
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" width="48%"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&hide_border=true&theme=transparent" width="48%"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
 
-<br>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zeeshan2007&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+### 🏆 GitHub Trophies
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zeeshan2007&theme=flat&no-frame=true&row=2&column=4"/>
+
+</div>
+
+
+---
+
+### 🚀 Featured Machine Learning Projects
+
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| ⚽ FIFA Player Market Value Predictor | Predicting football player market value using regression models | Python, Pandas, Scikit-Learn, Random Forest |
+| 📉 Customer Churn Prediction | Predicting customer retention using classification algorithms | Python, Pandas, Machine Learning |
+| ❤️ Heart Disease Prediction | Predicting health risks using machine learning models | Python, Scikit-Learn, Data Analysis |
+| 🎬 Netflix Data Analysis | Exploring Netflix trends through exploratory data analysis | Python, Pandas, Matplotlib |
+
+
+---
+
+### 🌐 Connect With Me
 
 
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=zeeshan2007&hide_border=true&theme=transparent" width="60%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-58a6ff?style=for-the-badge)](https://zeeshanshaukat.netlify.app/)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeeshan-shaukat-6ab842297/)
 
 
 </div>
@@ -63,104 +133,8 @@ goal:
 
 ---
 
-
-## 🐍 Contribution Snake
-
-
 <div align="center">
 
-
-<img src="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/github-contribution-grid-snake.svg" width="100%"/>
-
-
-</div>
-
-
----
-
-
-## 🏆 GitHub Trophies
-
-
-<div align="center">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=zeeshan2007&theme=flat&no-frame=true&column=4&margin-w=15"/>
-
-
-</div>
-
-
----
-
-
-## 🚀 Currently Exploring
-
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Advanced+Machine+Learning;Deep+Learning;Model+Deployment;Artificial+Intelligence;Building+Real+World+AI+Solutions"/>
-
-
-</div>
-
-
-<br>
-
-
-```python
-class Zeeshan:
-
-    def __init__(self):
-        self.role = "Aspiring Machine Learning Engineer"
-        self.focus = [
-            "Machine Learning",
-            "Data Science",
-            "Artificial Intelligence",
-            "Deep Learning"
-        ]
-
-    def goal(self):
-        return "Building intelligent systems using data"
-
-
-me = Zeeshan()
-
-print(me.goal())
-
-```
-
-
----
-
-## 🚀 Featured Projects
-
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| ❤️ **Heart Disease Prediction** | Machine Learning classification project to predict heart disease using cleaned patient data and predictive modeling techniques. | Python • Pandas • Scikit-Learn • Machine Learning |
-| 🏦 **Bank Management System** | A Python-based banking application implementing core programming concepts and user operations. | Python • OOP • File Handling |
-
-
-<br>
-
-
-<div align="center">
-
-
-<a href="https://github.com/zeeshan2007/ML-Project-Heart-Disease-Data-Cleaned-">
-
-<img src="https://img.shields.io/badge/Heart%20Disease%20Prediction-View%20Project-58a6ff?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-<a href="https://github.com/zeeshan2007/Bank-Management-Python-Project">
-
-<img src="https://img.shields.io/badge/Bank%20Management%20System-View%20Project-58a6ff?style=for-the-badge&logo=github"/>
-
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" />
 
 </div>
