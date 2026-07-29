@@ -1,125 +1,217 @@
+<!-- ================= HERO ================= -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Zeeshan Shaukat" src="light.svg">
+</picture>
+
+<br>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Zeeshan+%F0%9F%91%8B;Data+Analyst+%7C+BS+Data+Science+Student;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
+# Hi, I'm Zeeshan Shaukat 👋
 
-<br/>
+### Aspiring Machine Learning Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zeeshanshaukat.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://zeeshanshaukat.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeeshan_Shaukat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-shaukat-6ab842297/)
-[![GitHub](https://img.shields.io/badge/GitHub-zeeshan2007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeeshan2007)
+Building intelligent Machine Learning solutions with Python, Data Science, and AI.
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeeshan2007&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zeeshanshaukat.netlify.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeeshan-shaukat/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zeeshan2007)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshanshaukat2007@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 🚀 About Me
 
-```yaml
-name       : Zeeshan Shaukat
-location   : Rawalpindi, Pakistan
-education  : BS Data Science — NUML University (2nd Semester)
-role       : Data Analyst | Frontend Developer (AI-Assisted)
-focus      : Data Analysis, Visualization & Insight-Driven Storytelling
-tools      : Python, SQL, Excel, Power BI, Pandas, NumPy
-currently  : Building data analysis projects & a scraping-based data tool
-```
+I'm a passionate Machine Learning enthusiast from Pakistan who enjoys building AI-powered applications and solving real-world problems using data.
 
----
+Currently focused on:
 
-### 📊 Data Analysis Toolkit
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-
-**Web & Dev**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- 🤖 Machine Learning
+- 📊 Data Analysis
+- 🐍 Python
+- 🧠 Scikit-Learn
+- 📈 Model Deployment
 
 ---
 
-### 📈 GitHub Stats
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+
+</p>
+
+### Libraries
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/>
+
+</p>
+
+### Visualization
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="100%" src="https://streak-stats.demolab.com?user=zeeshan2007&hide_border=true&border_radius=15&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=777777&sideLabels=555555"/>
 
-</div>
+<br><br>
 
-<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan2007&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=000000&text_color=444444&icon_color=000000"/>
 
-<img src="https://streak-stats.demolab.com?user=zeeshan2007&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=zeeshan2007&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [📊 Data Analyst Portfolio](https://zeeshanshaukat.netlify.app/) | My main portfolio showcasing data analysis work, certificates & skills | React, Data Viz |
-| [🌐 Dev Portfolio](https://zeefolder.netlify.app/) | Frontend developer portfolio — projects & contact | HTML, CSS, JS |
-| [🌦️ Aura Weather App](https://aura-weather-zeta.vercel.app/) | Live weather app with glassmorphism UI | JS, WeatherAPI |
-| [📚 Study Corner](https://study-cornor.netlify.app/) | Study time tracking app to boost productivity | HTML, CSS, JS |
-| [🐍 Snake AI Game](https://snake-ai-game.netlify.app/) | Classic snake game enhanced with AI | TypeScript |
-| [🕵️ Detective Game](https://unclosed-file.netlify.app/) | Interactive mystery detective game | TypeScript |
-
-> 🚀 More data analysis projects on the way...
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/📊_Data_Portfolio-Visit_Site-58a6ff?style=for-the-badge)](https://zeeshanshaukat.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/zeeshan-shaukat-6ab842297/)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan2007&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=444444"/>
 
 </div>
 
 ---
 
+# 🐍 Contribution Graph
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/snake-light.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/zeeshan2007/zeeshan2007/output/snake-light.svg">
+</picture>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zeeshan2007&style=for-the-badge&color=000000" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| ⚽ **[FIFA Player Market Value Predictor](https://github.com/zeeshan2007/Fifa-2026-Player-Market-Value-Predictor)** | Predicts football players' market value using Machine Learning regression models. | Python • Pandas • NumPy • Scikit-Learn |
+| 📉 **[Customer Churn Prediction](https://github.com/zeeshan2007/Customer-Churn-Prediction)** | Predicts whether a customer is likely to churn using classification algorithms. | Python • Logistic Regression • Scikit-Learn |
+| ❤️ **Heart Disease Prediction** | Predicts the likelihood of heart disease based on patient medical data. | Python • Machine Learning |
+| 🎬 **Netflix Data Analysis** | Exploratory Data Analysis on the Netflix dataset with meaningful business insights. | Pandas • Matplotlib |
+| 🌦️ **Aura Weather** | A modern weather web application with a clean responsive interface. | HTML • CSS • JavaScript |
+| 🐍 **Python Mini Projects** | Collection of beginner-to-intermediate Python projects for practice. | Python |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|:------:|
+| 🐍 Master Python | ✅ |
+| 📊 Master Data Analysis | ✅ |
+| 🤖 Build 15+ Machine Learning Projects | 🔄 |
+| 🧠 Learn Deep Learning | 🔄 |
+| 👁️ Learn Computer Vision | ⏳ |
+| 💬 Learn NLP & LLMs | ⏳ |
+| 🌐 Deploy AI Applications | 🔄 |
+| 💼 Become an ML Engineer | 🎯 |
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Machine Learning is not about replacing human intelligence — it's about amplifying it."**
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://zeeshanshaukat.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/zeeshan2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/zeeshan-shaukat/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:zeeshanshaukat2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent solutions with Machine Learning, one project at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+
 </div>
