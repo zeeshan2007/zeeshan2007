@@ -176,34 +176,28 @@ goal:
 # 🚀 Currently Exploring
 
 
+# 🚀 Currently Exploring
+
 <div align="center">
 
-
-```python
-class Zeeshan:
-
-    def __init__(self):
-        self.role = "Aspiring ML Engineer"
-        self.skills = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Science",
-            "MLOps"
-        ]
-
-
-    def mission(self):
-        return "Building intelligent AI systems"
-
-
-me = Zeeshan()
-
-print(me.mission())
-```
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Advanced+Machine+Learning;Deep+Learning;MLOps;AI+Applications;Building+Intelligent+Systems"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+| 🧠 Learning | 🚀 Goal |
+|---|---|
+| Machine Learning | Build AI Systems |
+| Deep Learning | Solve Real Problems |
+| MLOps | Deploy Models |
+| Data Science | Extract Insights |
+
+</div>
+
+---
 
 ---
 
