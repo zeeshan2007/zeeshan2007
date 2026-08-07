@@ -111,8 +111,6 @@ currently  : Building predictive models and real-world ML projects
 | ⚽ FIFA Player Market Value Predictor | Predicting football player market value using regression models | Python, Pandas, Scikit-Learn, Random Forest |
 | 📉 Customer Churn Prediction | Predicting customer retention using classification algorithms | Python, Pandas, Machine Learning |
 | ❤️ Heart Disease Prediction | Predicting health risks using machine learning models | Python, Scikit-Learn, Data Analysis |
-| 🎬 Netflix Data Analysis | Exploring Netflix trends through exploratory data analysis | Python, Pandas, Matplotlib |
-
 
 ---
 
@@ -122,7 +120,7 @@ currently  : Building predictive models and real-world ML projects
 <div align="center">
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-58a6ff?style=for-the-badge)](https://zeeshanshaukat.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-58a6ff?style=for-the-badge)](https://zeeshanshaukat.vercel.app/)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeeshan-shaukat-6ab842297/)
